@@ -1,0 +1,2 @@
+2026-06-28 21:55:47,617 | INFO | {"timestamp": "2026-06-28T16:25:47.615783Z", "event_type": "transaction_completion", "model_used": "qwen2.5-coder:1.5b", "routing_tier": "tier_1", "input_tokens": 36, "output_tokens": 8, "latency_seconds": 11.911, "estimated_cost": 0.0}
+2026-06-28 21:56:15,374 | INFO | {"timestamp": "2026-06-28T16:26:15.372771Z", "event_type": "quality_audit", "audit_score": 5, "audit_reason": "The response accurately and concisely answers the user's question.", "action_taken": "passed_threshold"}
